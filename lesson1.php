@@ -8,9 +8,9 @@
 
 /*Задание 1-4*/
 class Comics{           //создаем класс комиксов с общими свойствами
-    var $price;         //цена
-    var $autor;         //ценник
-    var $name;          //название
+    protected $price;         //цена
+    protected $autor;         //ценник
+    protected $name;          //название
     public function __construct($name,$price,$autor){   //присваиваем значения
         $this->price=$price;
         $this->autor=$autor;
@@ -21,7 +21,7 @@ class Comics{           //создаем класс комиксов с общи
     }
 }
 class ComicsPubl extends Comics{        //создаем дочерний класс
-    var $publ;                          //со свойством Издательство (DC, Marvel, Bubble и тд)
+    protected $publ;                          //со свойством Издательство (DC, Marvel, Bubble и тд)
     public function __construct($name,$price, $autor,$publ)    //присваиваем значения
     {
         parent::__construct($name,$price,$autor);
