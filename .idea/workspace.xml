@@ -1,8 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="914c6e1c-116c-48f1-b26f-5d79c0d1730a" name="Default" comment="Второй урок">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2.php" />
+    <list default="true" id="914c6e1c-116c-48f1-b26f-5d79c0d1730a" name="Default" comment="Третий урок">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/405861.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/420100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/420451.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/440524.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/440528.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/files/443062.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/css/gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lesson3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/BaseNodeVisitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Cache/Filesystem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Cache/Null.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/CacheInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Compiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Environment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Error/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Error/Runtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Error/Syntax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/ExistsLoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/ExpressionParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Escaper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/GlobalsInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/InitRuntimeInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Optimizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/Staging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Extension/StringLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/ExtensionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/ExtensionSet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/FileExtensionEscapingStrategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Lexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Loader/Array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Loader/Chain.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Loader/Filesystem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/LoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Markup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/AutoEscape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/BlockReference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Body.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/CheckSecurity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Do.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/AssignName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/And.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/BitwiseAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/BitwiseOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/BitwiseXor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Concat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Div.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/EndsWith.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Equal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/FloorDiv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Greater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/GreaterEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/In.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Less.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/LessEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Matches.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Mod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Mul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/NotEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/NotIn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Or.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Power.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/StartsWith.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Binary/Sub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/BlockReference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Call.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Conditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Constant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Filter/Default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/GetAttr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/MethodCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/NullCoalesce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Parent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/TempName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Constant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Defined.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Divisibleby.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Even.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Null.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Odd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Test/Sameas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Unary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Unary/Neg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Unary/Not.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Expression/Unary/Pos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Flush.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/For.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/ForLoop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/If.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Macro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Print.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/SandboxedPrint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Spaceless.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Node/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeOutputInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeTraverser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeVisitor/Escaper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeVisitor/Optimizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeVisitor/SafeAnalysis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeVisitor/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/NodeVisitorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Dumper/Blackfire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Dumper/Html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Dumper/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Node/EnterProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Node/LeaveProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/NodeVisitor/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Profiler/Profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/RuntimeLoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityNotAllowedFilterError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityNotAllowedFunctionError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityNotAllowedMethodError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityNotAllowedPropertyError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityNotAllowedTagError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityPolicy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Sandbox/SecurityPolicyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/SimpleFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/SimpleFunction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/SimpleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Source.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/SourceContextLoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TemplateIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Test/IntegrationTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Test/NodeTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/AutoEscape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Do.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Flush.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/For.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/From.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/If.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Macro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Spaceless.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParser/Use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenParserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/TokenStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Util/DeprecationCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/lib/Twig/Util/TemplateDirIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/tpl/hello.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/tpl/image.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/tpl/images.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/tpl/main.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,26 +191,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="cb3b3fe9-2728-4336-83d5-ecc5f8a19035">
+    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <file leaf-file-name="lesson3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/lesson3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="31" column="74" lean-forward="false" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+            <state relative-caret-position="146">
+              <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson2.php">
+      <file leaf-file-name="Autoloader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/lib/Twig/Autoloader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="120" column="30" lean-forward="true" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+            <state relative-caret-position="249">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/tpl/hello.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery/tpl/main.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/tpl/image.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
               <folding>
-                <element signature="e#6#89#0#PHP" expanded="true" />
+                <element signature="e#55#61#0#HTML" expanded="true" />
+                <element signature="e#61#67#0#HTML" expanded="true" />
+                <element signature="e#67#73#0#HTML" expanded="true" />
+                <element signature="e#73#79#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/css/gallery.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="images.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery/tpl/images.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +281,16 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/lesson2.php" />
+        <option value="$PROJECT_DIR$/tpl/hello.tpl" />
+        <option value="$PROJECT_DIR$/lesson3.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/models/config.php" />
+        <option value="$PROJECT_DIR$/gallery/tpl/hello.tpl" />
+        <option value="$PROJECT_DIR$/gallery/css/gallery.css" />
+        <option value="$PROJECT_DIR$/gallery/tpl/images.tpl" />
+        <option value="$PROJECT_DIR$/gallery/tpl/image.tpl" />
+        <option value="$PROJECT_DIR$/gallery/lesson3.php" />
+        <option value="$PROJECT_DIR$/gallery/tpl/main.tpl" />
       </list>
     </option>
   </component>
@@ -63,7 +308,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
+    <option name="x" value="-7" />
     <option name="width" value="1369" />
     <option name="height" value="716" />
   </component>
@@ -92,6 +337,23 @@
               <item name="php2" type="b2602c69:ProjectViewProjectNode" />
               <item name="php2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="php2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="gallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="gallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="files" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="gallery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,7 +363,15 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../education" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\php2\gallery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\php2\gallery" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,11 +385,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.lesson1.php">
+  <component name="RunManager" selected="PHP Script.lesson3.php">
     <configuration name="lesson1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lesson1.php" />
+    <configuration name="lesson3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/gallery/lesson3.php" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.lesson1.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.lesson3.php" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.lesson1.php" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.lesson3.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.lesson1.php" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +414,8 @@
       <updated>1510351145395</updated>
       <workItem from="1510351146602" duration="7914000" />
       <workItem from="1510399664273" duration="2020000" />
-      <workItem from="1510937118770" duration="13533000" />
+      <workItem from="1510937118770" duration="14228000" />
+      <workItem from="1511289474556" duration="13931000" />
     </task>
     <task id="LOCAL-00001" summary="Первый урок">
       <created>1510400373960</created>
@@ -154,27 +431,33 @@
       <option name="project" value="LOCAL" />
       <updated>1510400473512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Второй урок">
+      <created>1510951032329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510951032329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23467000" />
+    <option name="totallyTimeSpent" value="38093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -186,6 +469,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -208,37 +517,70 @@
           <line>80</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/gallery/lesson3.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/gallery/lesson3.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="31" column="74" lean-forward="false" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
-          <folding />
+          <folding>
+            <marker date="1510951063539" expanded="true" signature="119:179" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="120" column="30" lean-forward="true" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510951063539" expanded="true" signature="119:179" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510951063539" expanded="true" signature="119:179" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/папки винды/Desktop/Twig-master/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -248,11 +590,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="120" column="30" lean-forward="true" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+        <state relative-caret-position="425">
+          <caret line="120" column="30" lean-forward="false" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
           <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#6#89#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <marker date="1510951063539" expanded="true" signature="119:179" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/lib/Twig/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/tpl/hello.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/tpl/image.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding>
+            <element signature="e#55#61#0#HTML" expanded="true" />
+            <element signature="e#61#67#0#HTML" expanded="true" />
+            <element signature="e#67#73#0#HTML" expanded="true" />
+            <element signature="e#73#79#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/lesson3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/tpl/images.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/files/405861.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/tpl/main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
